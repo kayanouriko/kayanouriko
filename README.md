@@ -2,8 +2,6 @@
 <img src="https://raw.githubusercontent.com/kayanouriko/kayanouriko/main/header.gif" height="250px" />
 <br>
 
-## kayanouriko
-
 iOS开发者
 
 怪物猎人系列粉 肥宅
