@@ -4,12 +4,11 @@
 
 ## kayanouriko
 
-#### iOS开发者
-#### 怪物猎人系列粉 肥宅
-#### 编程 日本动画 主机游戏
+iOS开发者
 
-<br>
-<br>
+怪物猎人系列粉 肥宅
+
+编程 日本动画 主机游戏
 
 [[weibo]](https://weibo.com/kayanouriko) - [[email]](mailto:qinjiang104@163.com)
 
