@@ -1,9 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/kayanouriko/kayanouriko/main/header.gif" height="250px" />
 <br>
-<br>
-<br>
-<br>
 
 ## Nya~ Nya~ Nya~ 
 ![](https://img.shields.io/badge/-怪猎系列粉-000000) ![](https://img.shields.io/badge/-肥宅-000000) ![](https://img.shields.io/badge/-编程-000000) ![](https://img.shields.io/badge/-番剧-000000) ![](https://img.shields.io/badge/-主机玩家-000000)
