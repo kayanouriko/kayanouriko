@@ -12,5 +12,8 @@ iOS开发者
 编程 日本动画 主机游戏
 
 [[weibo]](https://weibo.com/kayanouriko) - [[email]](mailto:qinjiang104@163.com)
-
+<br>
+<br>
+<br>
+![](http://antzuhl.cn:4000/get/@kayanouriko.readme)
 </div>
