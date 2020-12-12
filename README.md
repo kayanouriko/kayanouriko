@@ -5,7 +5,7 @@
 ## Nya~ Nya~ Nya~ 
 ![](https://img.shields.io/badge/-怪猎系列粉-000000) ![](https://img.shields.io/badge/-肥宅-000000) ![](https://img.shields.io/badge/-编程-000000) ![](https://img.shields.io/badge/-番剧-000000) ![](https://img.shields.io/badge/-主机玩家-000000)
 
-![](https://img.shields.io/badge/iPhone-XS%20Max-000000?logo=apple&logoColor=ffffff) ![](https://img.shields.io/badge/Redmi-Note%208-FA6709?logo=xiaomi&logoColor=ffffff)
+![](https://img.shields.io/badge/iPhone-XS%20Max-000000?logo=apple&logoColor=ffffff) ![](https://img.shields.io/badge/Redmi-K30S-FA6709?logo=xiaomi&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/macOS-Big%20Sur-292e33?logo=apple&logoColor=ffffff) ![](https://img.shields.io/badge/IDE-Xcode-1575F9?logo=xcode&logoColor=ffffff) ![](https://img.shields.io/badge/Objective--C-999999) ![](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=ffffff)
 
