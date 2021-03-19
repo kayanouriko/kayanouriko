@@ -12,10 +12,5 @@
 ![](https://img.shields.io/badge/SW--2507--9404--0223-e60012?logo=nintendo%20switch&logoColor=ffffff) ![](https://img.shields.io/badge/YeGuaZi-003791?logo=playstation&logoColor=ffffff) ![](https://img.shields.io/badge/kayanouriko-107C10?logo=xbox&logoColor=ffffff)
 
 [![](https://img.shields.io/badge/茅野瓜子-E6162D?logo=sina-weibo&logoColor=ffffff)](https://weibo.com/kayanouriko) [![](https://img.shields.io/badge/qinjiang104@163.com-D14836?logo=gmail&logoColor=ffffff)](mailto:qinjiang104@163.com)
-<br>
-<br>
-<br>
-
-![](http://antzuhl.cn:4000/get/@kayanouriko.readme)
 
 </div>
