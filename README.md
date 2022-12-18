@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/badge/iPhone-XS%20Max-000000?logo=apple&logoColor=ffffff) ![](https://img.shields.io/badge/Redmi-K30S-FA6709?logo=xiaomi&logoColor=ffffff)
 
-![](https://img.shields.io/badge/macOS-Big%20Sur-292e33?logo=apple&logoColor=ffffff) ![](https://img.shields.io/badge/IDE-Xcode-1575F9?logo=xcode&logoColor=ffffff) ![](https://img.shields.io/badge/Objective--C-999999) ![](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=ffffff)
+![](https://img.shields.io/badge/Platform-macOS-292e33?logo=apple&logoColor=ffffff) ![](https://img.shields.io/badge/IDE-Xcode-1575F9?logo=xcode&logoColor=ffffff) ![](https://img.shields.io/badge/Objective--C-999999) ![](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/SW--2507--9404--0223-e60012?logo=nintendo%20switch&logoColor=ffffff) ![](https://img.shields.io/badge/ayanouriko-003791?logo=playstation&logoColor=ffffff) ![](https://img.shields.io/badge/kayanouriko-107C10?logo=xbox&logoColor=ffffff)
 
