@@ -7,6 +7,6 @@
 
 ![](https://img.shields.io/badge/macOS-Sonoma-0078D4?logo=apple&logoColor=ffffff) ![](https://img.shields.io/badge/Windows-11-0078D4?logo=windows11&logoColor=ffffff) ![](https://img.shields.io/badge/iPhone-XS%20Max-000000?logo=apple&logoColor=ffffff) ![](https://img.shields.io/badge/Redmi-K30S-FA6709?logo=xiaomi&logoColor=ffffff)
 
-![](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=ffffff) ![](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=ffffff) ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=ffffff) ![](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=ffffff) ![](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=ffffff)
+![](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=ffffff) ![](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=ffffff) ![](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=ffffff) ![](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=ffffff) ![](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=ffffff)
 
 </div>
